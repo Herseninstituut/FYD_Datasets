@@ -1,1 +1,1 @@
-/home/chrisvdt/Example_datasets/FYD_datasets/VandC/PersistentActivityV1/Bumba/20190919/Bumba_20190919_B1_runstim.m
+/mnt/VS01/VandC_DATA/PersistentActivityV1/Bumba/20190919/Bumba_20190919_B1_runstim.m
