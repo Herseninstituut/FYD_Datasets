@@ -1,1 +1,0 @@
-/mnt/VS01/VandC_DATA/PersistentActivityV1/Bumba/20191007/Bumba_20191007_B1_runstim.m
