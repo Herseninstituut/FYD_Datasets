@@ -1,1 +1,1 @@
-## Publication of empty datasets to show data organization.
+## Open datasets at the Netherlands Institute for Neuroscience.
