@@ -1,6 +1,6 @@
-## Empty filesystem image to demonstrate the structure of a dataset and the file types it contains. 
+## Empty filesystem image to demonstrate dataset structure and the contained file types. 
 
-The files in this dataset only contain links to the actual data files.  
+The files in this dataset only contain links to the actual data files. This shows an example file.  
 
 
 ![](img.png?raw=true)  
