@@ -1,4 +1,4 @@
-## Empty filesystem image to demonstrate dataset structure and the contained file types. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4716654.svg)](https://doi.org/10.5281/zenodo.4716654)
+## Empty filesystem image of a dataset with download links. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4716654.svg)](https://doi.org/10.5281/zenodo.4716654)
 
 The files in this dataset only contain links to the actual data files. This shows an example file.  
 
