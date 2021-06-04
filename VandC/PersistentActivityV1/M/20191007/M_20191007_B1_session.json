@@ -1,16 +1,1 @@
-{
-	"date": "20191007",
-	"version": "1.0",
-	"project": "PersistentActivityV1",
-	"dataset": "DMTP",
-	"subject": "Monty",
-	"investigator": "RobTeeuwen",
-	"setup": "MonkeyLab4",
-	"stimulus": "Delayed_match_to_position_grid",
-	"condition": "all",
-	"Tankname": "Monty_20191007",
-	"block": 1,
-	"logfile": "dmtp_Monty_20191007_B1",
-	"metafile": "dmtp_meta_Monty_20191007_B1",
-	"notes": "good block"
-}
+{"date":"20191007","version":"1.0","project":"PersistentActivityV1","dataset":"DMTP","subject":"M","investigator":"RobTeeuwen","setup":"MonkeyLab4","stimulus":"Delayed_match_to_position_grid","condition":"all","Tankname":"M_20191007","block":1,"logfile":"dmtp_M_20191007_B1","metafile":"dmtp_meta_M_20191007_B1","notes":"good block"}

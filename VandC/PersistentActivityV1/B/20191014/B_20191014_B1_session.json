@@ -1,16 +1,1 @@
-{
-	"date": "20191014",
-	"version": "1.0",
-	"project": "PersistentActivityV1",
-	"dataset": "DMTP",
-	"subject": "Bumba",
-	"investigator": "RobTeeuwen",
-	"setup": "MonkeyLab4",
-	"stimulus": "Delayed_match_to_position_grid",
-	"condition": "all",
-	"Tankname": "Bumba_20191014",
-	"block": 1,
-	"logfile": "dmtp_Bumba_20191014_B1",
-	"metafile": "dmtp_meta_Bumba_20191014_B1",
-	"notes": "good block"
-}
+{"date":"20191014","version":"1.0","project":"PersistentActivityV1","dataset":"DMTP","subject":"B","investigator":"RobTeeuwen","setup":"MonkeyLab4","stimulus":"Delayed_match_to_position_grid","condition":"all","Tankname":"B_20191014","block":1,"logfile":"dmtp_B_20191014_B1","metafile":"dmtp_meta_B_20191014_B1","notes":"good block"}
