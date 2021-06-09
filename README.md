@@ -1,6 +1,7 @@
-## Empty filesystem image of a dataset with download links. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4716654.svg)](https://doi.org/10.5281/zenodo.4716654)
+## Empty filesystem image of a dataset with download links.  
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4916000.svg)](https://doi.org/10.5281/zenodo.4916000)
 
-The files in this dataset only contain links to the actual data files. This shows an example file.  
+The files in this dataset contain https links to datafiles on our server. Below is a a screenshot of an example file. When you click the file the link is shown underneath the file name. If you click to the left of the link, three dots and a small menu appear.  
 
 
 ![](img.png?raw=true)  
