@@ -8,4 +8,4 @@ The files in this dataset contain https links to datafiles on our server. Below 
 
 Copy the link at the bottom left (see arrow ... ) in to your browser or use the link with *curl* to download the file.  
 
-
+These links do not point to actual files, they are links to virtual files (symbolic links). This enables us to ensure that the http links stay functional irrespective of changes in the underlying folder/file structure.
